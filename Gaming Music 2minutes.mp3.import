@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://up10jkud8omq"
+path="res://.godot/imported/Gaming Music 2minutes.mp3-9af481460edba35aced2e17e69180ec0.mp3str"
+
+[deps]
+
+source_file="res://Gaming Music 2minutes.mp3"
+dest_files=["res://.godot/imported/Gaming Music 2minutes.mp3-9af481460edba35aced2e17e69180ec0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
